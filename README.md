@@ -15,7 +15,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ViniciusPorcionato&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<img src="https://icon-library.com/images/dev-icon/dev-icon-8.jpg" width="150px"/>
+<img src="https://icon-library.com/images/dev-icon/dev-icon-8.jpg" width="50px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ViniciusPorcionato&icon=0&color=0)](https://visitcount.itsvg.in)
