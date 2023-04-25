@@ -1,4 +1,4 @@
-## Hello, World! 👋 </> 
+## Hello, World! 👋🌎 </> 
 
 - Cursando Técnico em Desenvolvimento de Sistemas no SENAI de Informática "Paulo Skaf"
 
@@ -9,7 +9,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ViniciusPorcionato&theme=blueberry&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusPorcionato&theme=blueberry&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
