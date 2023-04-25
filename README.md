@@ -15,7 +15,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ViniciusPorcionato&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
 <img src="https://icon-library.com/images/dev-icon/dev-icon-8.jpg" width="150px"/>
 
 ---
