@@ -48,6 +48,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
 
 ###
@@ -56,12 +58,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ViniciusPorcionato&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ViniciusPorcionato&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=true&order=2" height="200" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=ViniciusPorcionato&locale=en&mode=daily&theme=gotham&hide_border=true&border_radius=5&order=3" height="200" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/ViniciusPorcionato/count.svg?"  />
 </div>
 
 ###
