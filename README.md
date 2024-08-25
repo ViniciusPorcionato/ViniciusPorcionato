@@ -64,6 +64,8 @@
   <img src="https://streak-stats.demolab.com?user=ViniciusPorcionato&locale=en&mode=daily&theme=gotham&hide_border=true&border_radius=5&order=3" height="200" alt="streak graph"  />
 </div>
 
+###
+
 <div align="left">
   <img height="100" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Jzb291YnhsdGxidHBkM2p5cnM1dmh0ajE5dm0zZm10ZnB3bnZhbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fvGZ6FVc1hYrdQBjo9/giphy.webp"  />
 </div>
