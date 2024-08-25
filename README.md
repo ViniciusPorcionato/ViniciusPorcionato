@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 Studying Systems Development Technician - SENAI Informática "Paulo Skaf"</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 Studying Systems Development Technical course - SENAI Informática "Paulo Skaf"</p>
 
 ###
 
