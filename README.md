@@ -60,10 +60,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ViniciusPorcionato/ViniciusPorcionato/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/ViniciusPorcionato/count.svg?"  />
 </div>
