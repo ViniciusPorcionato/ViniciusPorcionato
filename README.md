@@ -63,8 +63,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
 </div>
 
-###
-
 ## Connect with me  
 <div align="left">
 <a href="https://linkedin.com/in/vinicius-porcionato/" target="_blank">
