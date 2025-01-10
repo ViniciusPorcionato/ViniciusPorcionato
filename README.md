@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br> 📚 Studying Systems Analysis and Development - Faculdade SENAI de Tecnologia Mecatrônica<br>📚 Systems Development Technician - SENAI Informática "Paulo Skaf"</p>
+<p align="left">✨ Creating bugs since 2023<br> 📚 Studying Systems Analysis and Development - Faculdade SENAI de Tecnologia Mecatrônica<br>🎓 Systems Development Technician - SENAI Informática "Paulo Skaf"</p>
 
 ###
 
