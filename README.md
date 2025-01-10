@@ -63,6 +63,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" height="40" alt="azuredevops logo"/>
 </div>
 
+<h2>Education 🎓</h2> 
+  
+📌 <strong>Técnico Desenvolvimento De Sistemas</strong> - <strong>Concluído Dezembro 2024 ✅<strong><br>
+📌 <strong>PL-900</strong> - Concluído <strong>Setembro 2023 ✅<strong><br>
+📌 <strong>Programação em Java, Oracle</strong> - Concluído <strong>Outubro 2024 ✅<strong><br>
+
 ## Connect with me  
 <div align="left">
 <a href="https://linkedin.com/in/vinicius-porcionato/" target="_blank">
