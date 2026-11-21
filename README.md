@@ -1,12 +1,24 @@
-# Hi, I'm Vinicius Porcionato 👋
+<h1 align="center">Vinicius Porcionato</h1>
 
-[![Hello, World!](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&color=2079D6&width=435&lines=Hello%2C+World%21)](https://github.com/DenverCoder1/readme-typing-svg)
+<p align="center"><strong>Systems Analysis and Development · São Paulo, Brazil</strong></p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=28&amp;duration=2200&amp;pause=1100&amp;color=388BFD&amp;center=true&amp;vCenter=true&amp;width=400&amp;height=56&amp;lines=%3C%2F%3E;Hello%2C+World%21" alt="Typing animation: &lt;/&gt; and Hello, World!" />
+</p>
+
+<h2 align="center">Connect with me</h2>
+
+<p align="center">
+  <a href="https://portfolio-vinicius-alpha.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1D4ED8?style=for-the-badge" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/vinicius-porcionato/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/vn.porci_/"><img src="https://img.shields.io/badge/Instagram-B72468?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram" /></a>
+</p>
+
+## About me
 
 <img align="right" height="180" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3ZpdmJ0NHRxMWw2aGFmbjE5eHVlMHQ3emJ5Njk1b3Y3OTk3YTBzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zhrlcZJsvQWDm/200w.webp" alt="Animated Naruto GIF" />
 
 I'm a Systems Analysis and Development student at SENAI's Faculty of Mechatronics Technology in São Paulo, Brazil. I also hold a technical diploma in Systems Development from SENAI's Paulo Skaf School of Information Technology.
-
-[Portfolio](https://portfolio-vinicius-alpha.vercel.app/) · [LinkedIn](https://linkedin.com/in/vinicius-porcionato/) · [Instagram](https://instagram.com/vn.porci_/)
 
 <br clear="all" />
 
