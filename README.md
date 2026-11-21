@@ -3,17 +3,16 @@
 <p align="center"><strong>Systems Analysis and Development · São Paulo, Brazil</strong></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=28&amp;duration=2200&amp;pause=1100&amp;color=388BFD&amp;center=true&amp;vCenter=true&amp;width=400&amp;height=56&amp;lines=%3C%2F%3E;Hello%2C+World%21" alt="Typing animation: &lt;/&gt; and Hello, World!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=28&amp;duration=2200&amp;pause=1100&amp;color=388BFD&amp;center=true&amp;vCenter=true&amp;width=400&amp;height=56&amp;lines=Welcome%2C+devs%21+%3C%2F%3E;Hello%2C+World%21" alt="Typing animation: Welcome, devs! &lt;/&gt; then Hello, World!" />
 </p>
 
 ## About me
 
-<table>
-  <tr>
-    <td valign="middle">I'm a Systems Analysis and Development student at SENAI's Faculty of Mechatronics Technology in São Paulo, Brazil. I also hold a technical diploma in Systems Development from SENAI's Paulo Skaf School of Information Technology.</td>
-    <td align="center" valign="middle" width="170"><img width="145" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3ZpdmJ0NHRxMWw2aGFmbjE5eHVlMHQ3emJ5Njk1b3Y3OTk3YTBzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zhrlcZJsvQWDm/200w.webp" alt="Animated Naruto GIF" /></td>
-  </tr>
-</table>
+<p>
+  <img align="right" width="130" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3ZpdmJ0NHRxMWw2aGFmbjE5eHVlMHQ3emJ5Njk1b3Y3OTk3YTBzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zhrlcZJsvQWDm/200w.webp" alt="Animated Naruto GIF" />
+  I'm a Systems Analysis and Development student at SENAI's Faculty of Mechatronics Technology in São Paulo, Brazil. I also hold a technical diploma in Systems Development from SENAI's Paulo Skaf School of Information Technology.
+  <br clear="all" />
+</p>
 
 ## 🛠️ Tech Stack
 
