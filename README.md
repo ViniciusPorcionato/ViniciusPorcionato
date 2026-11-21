@@ -6,21 +6,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=28&amp;duration=2200&amp;pause=1100&amp;color=388BFD&amp;center=true&amp;vCenter=true&amp;width=400&amp;height=56&amp;lines=%3C%2F%3E;Hello%2C+World%21" alt="Typing animation: &lt;/&gt; and Hello, World!" />
 </p>
 
-<h2 align="center">Connect with me</h2>
-
-<p align="center">
-  <a href="https://portfolio-vinicius-alpha.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1D4ED8?style=for-the-badge" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/vinicius-porcionato/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
-  <a href="https://instagram.com/vn.porci_/"><img src="https://img.shields.io/badge/Instagram-B72468?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram" /></a>
-</p>
-
 ## About me
 
-<img align="right" height="180" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3ZpdmJ0NHRxMWw2aGFmbjE5eHVlMHQ3emJ5Njk1b3Y3OTk3YTBzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zhrlcZJsvQWDm/200w.webp" alt="Animated Naruto GIF" />
-
-I'm a Systems Analysis and Development student at SENAI's Faculty of Mechatronics Technology in São Paulo, Brazil. I also hold a technical diploma in Systems Development from SENAI's Paulo Skaf School of Information Technology.
-
-<br clear="all" />
+<table>
+  <tr>
+    <td valign="middle">I'm a Systems Analysis and Development student at SENAI's Faculty of Mechatronics Technology in São Paulo, Brazil. I also hold a technical diploma in Systems Development from SENAI's Paulo Skaf School of Information Technology.</td>
+    <td align="center" valign="middle" width="170"><img width="145" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3ZpdmJ0NHRxMWw2aGFmbjE5eHVlMHQ3emJ5Njk1b3Y3OTk3YTBzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zhrlcZJsvQWDm/200w.webp" alt="Animated Naruto GIF" /></td>
+  </tr>
+</table>
 
 ## 🛠️ Tech Stack
 
@@ -77,14 +70,28 @@ I'm a Systems Analysis and Development student at SENAI's Faculty of Mechatronic
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodered/nodered-original.svg" height="44" alt="Node-RED" title="Node-RED" />
 </p>
 
-## Education and certifications
+## Education
 
-- **Technical Diploma in Systems Development** · SENAI · December 2024
+- **Undergraduate Degree in Systems Analysis and Development** · SENAI Faculty of Mechatronics Technology · In progress
+- **Technical Diploma in Systems Development** · SENAI Paulo Skaf School of Information Technology · December 2024
+
+## Courses and certifications
+
 - **Java Programming** · Oracle · October 2024
 - **Microsoft Power Platform Fundamentals (PL-900)** · September 2023
 
 ## GitHub activity
 
-![GitHub stats for Vinicius Porcionato](https://github-readme-stats.vercel.app/api?username=ViniciusPorcionato&show_icons=true&hide_rank=true&include_all_commits=true&theme=gotham&hide_border=true)
-![Top languages across public repositories](https://github-readme-stats.vercel.app/api/top-langs?username=ViniciusPorcionato&layout=compact&theme=gotham&hide_border=true)
-![GitHub contribution streak](https://streak-stats.demolab.com?user=ViniciusPorcionato&theme=gotham&hide_border=true)
+![GitHub stats for Vinicius Porcionato](https://github-readme-stats.vercel.app/api?username=ViniciusPorcionato&show_icons=true&hide_rank=true&include_all_commits=true&theme=github_dark&title_color=58A6FF&icon_color=58A6FF&hide_border=true)
+![Top languages across public repositories](https://github-readme-stats.vercel.app/api/top-langs?username=ViniciusPorcionato&layout=compact&theme=github_dark&title_color=58A6FF&hide_border=true)
+![GitHub contribution streak](https://streak-stats.demolab.com?user=ViniciusPorcionato&theme=github-dark&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&hide_border=true)
+
+## Connect with me
+
+Curious about one of my projects or how I built it? Take a look at my portfolio or reach out on LinkedIn or Instagram. I'd be happy to chat.
+
+<p>
+  <a href="https://portfolio-vinicius-alpha.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1D4ED8?style=for-the-badge" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/vinicius-porcionato/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/vn.porci_/"><img src="https://img.shields.io/badge/Instagram-B72468?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram" /></a>
+</p>
