@@ -10,7 +10,7 @@
 
 <p>
   <img align="right" width="130" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3ZpdmJ0NHRxMWw2aGFmbjE5eHVlMHQ3emJ5Njk1b3Y3OTk3YTBzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zhrlcZJsvQWDm/200w.webp" alt="Animated Naruto GIF" />
-  I'm a Systems Analysis and Development student at SENAI's Faculty of Mechatronics Technology in São Paulo, Brazil. I also hold a technical diploma in Systems Development from SENAI's Paulo Skaf School of Information Technology.
+  I work in software development and I'm an AI enthusiast. I enjoy building web applications that solve practical problems, from writing backend code to creating dashboards that make real-time data easier to understand. I'm curious about how AI can help us build better software and simplify everyday tasks.
   <br clear="all" />
 </p>
 
